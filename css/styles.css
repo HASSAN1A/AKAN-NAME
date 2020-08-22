@@ -1,0 +1,75 @@
+img {
+    float: left;
+}
+
+
+p {
+    color: black;
+    font-size: larger;
+}
+
+a {
+    border: 1px solid rgb(90, 93, 93);
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: green;
+}
+
+nav {
+    background-color: aqua;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+}
+
+nav a {
+    text-decoration-line: none;
+    font-size-adjust: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px;
+
+}
+
+h2 {
+    background-color: rgb(104, 196, 0);
+}
+
+
+.column {
+    width: 350px;
+    float: left;
+}
+
+.sidebar {
+    width: 30%;
+    float: right;
+
+}
+
+.test-box {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+}
+
+.male {
+    font-size: xx-large;
+    background-image: url(/images/men.jpg);
+    text-align: center;
+}
+
+
+
+.female {
+    font-size: xx-large;
+    background-image: url(/images/fe.webp);
+    text-align: center;
+}
