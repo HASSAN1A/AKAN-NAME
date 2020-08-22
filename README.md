@@ -22,7 +22,7 @@ This web app will assist those who dont know the day of the week they were born 
 ## Mobile support
 The Web is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://hassan1a.github.io/Akan-name-and-birthday-of-the-week./)
+![](https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week.)
 
 
 
@@ -44,7 +44,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/HASSAN1A/test-answers/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://hassan1a.github.io/Akan-name-and-birthday-of-the-week./issues/new) by including your search query and the expected result.
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/HASSAN1A//issues/newtest-answers). Please include sample queries and their corresponding results.
 
 
