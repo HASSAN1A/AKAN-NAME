@@ -77,8 +77,8 @@ function useInput() {
   //   alert("your" + akanWomen[d])
 
 
-  // alert(gender)
-  // alert(bdate)
+  alert(gender)
+  alert(bdate)
 }
 
 
