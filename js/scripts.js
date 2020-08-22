@@ -9,16 +9,12 @@ function useInput() {
   var YY = parseInt(bdate.substr(1, 3))
   var MM = parseInt(bdate.substr(5, 6))
   var DD = parseInt(bdate.substr(8, 9))
-  var d = (((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7
-
-  // if (gender === "Male") {
-  //   alert("your" + akanMen[d])
-  // } else
-  //   alert("your" + akanWomen[d])
-
-
-  alert(gender)
-  alert(bdate)
+  var d = parseInt(((CC / 4 - 2 * CC - 1) + (5 * YY / 4) + (26 * (MM + 1) / 10) + DD) % 7)
+  
+  if (gender === "Male") {
+    alert("Your Akan name is " + akanMen[d])
+  } else
+    alert("Your Akan name is " + akanWomen[d])
 }
 
 
@@ -42,7 +38,7 @@ function useInput() {
 
 
 
-// var d = [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
+// var d = [0,1,2,3,4,5,6]
 
 
 
@@ -50,7 +46,7 @@ function useInput() {
 
 
 
-// if (d === sunday && gender === male){
+// if (d === 1 && gender === "Male"){
 //   alert("you were born on Sunday and your Akan name is " + Kwasi)
 // } else if (d === monday && gender === male) {
 //   alert("you were born on Monday and your Akan name is " + Kwadwo)
