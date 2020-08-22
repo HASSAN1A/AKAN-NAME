@@ -7,7 +7,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://HASSAN1A.github.io/test-answers
+Here is a working live demo :  https://hassan1a.github.io/Akan-name-and-birthday-of-the-week./
 
 
 ## Site
@@ -22,12 +22,12 @@ This web app will assist those who dont know the day of the week they were born 
 ## Mobile support
 The Web is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week.)
+![](https://hassan1a.github.io/Akan-name-and-birthday-of-the-week./)
 
 
 
 
-## [Usage](https://HASSAN1A.github.io/test-answers) 
+## [Usage](https://hassan1a.github.io/Akan-name-and-birthday-of-the-week./) 
 
 ### Development
 Want to contribute? Great!
