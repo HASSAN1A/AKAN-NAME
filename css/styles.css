@@ -62,7 +62,7 @@ h2 {
 
 .male {
     font-size: xx-large;
-    background-image: url(/images/fema.jpeg);
+    background-image: url(/images/men.jpg);
     text-align: center;
 }
 
@@ -70,6 +70,6 @@ h2 {
 
 .female {
     font-size: xx-large;
-    background-image: url(/images/female.jpeg);
+    background-image: url(/images/fe.webp);
     text-align: center;
 }
