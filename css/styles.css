@@ -2,7 +2,6 @@ img {
     float: left;
 }
 
-
 p {
     color: black;
     font-size: larger;
@@ -18,7 +17,7 @@ h1 {
 
 div {
     text-align: center;
-    background-color: green;
+    background-color: rgb(232, 240, 232);
 }
 
 nav {
@@ -34,13 +33,11 @@ nav a {
     padding-left: 15px;
     padding-right: 15px;
     border: 1px;
-
 }
 
 h2 {
     background-color: rgb(104, 216, 0);
 }
-
 
 .column {
     width: 350px;
@@ -50,7 +47,6 @@ h2 {
 .sidebar {
     width: 30%;
     float: right;
-
 }
 
 .test-box {
@@ -62,14 +58,12 @@ h2 {
 
 .male {
     font-size: xx-large;
-    background-image: url('../images/memememe.jpg');
+    background: url("../images/memememe.jpg");
     text-align: center;
 }
 
-
-
 .female {
     font-size: xx-large;
-    background-image: url('../images/fe.webp');
+    background-image: url("../images/fe.webp");
     text-align: center;
 }

@@ -22,27 +22,55 @@
                     birth order depending on their gender.</p>
             </h3>
             <h4>
-                <div class="sidebar">
-                    <h2>Get your Akan name here.</h2>
+
+                <div class="jumbotron">
+                    <h1 class="display-4">Hello Ghanaian, Get your Akan name here!</h1>
                     <form>
                         <div class="form-group">
                             <label for="bdate">Birthday:</label><br>
-                            <input type="date" id="bdate" name="bdate"><br>
+                            <input type="date" id="bdate" name="bdate" required><br>
+                            <div class="valid-feedback">Valid.</div>
+                            <div class="invalid-feedback">Please fill out this field.</div>
+
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your age with
+                                anyone
+                                else.</small>
+                        </div>
+                        <div class="form-group">
                             <label for="gender">Gender:</label><br>
-                            <select class="form-control" id="gender">
+                            <select class="form-control" id="gender" required>
                                 <option>Male</option>
                                 <option>Female</option>
                             </select>
+                            <div class="valid-feedback">Valid.</div>
+                            <div class="invalid-feedback">Please fill out this field.</div>
+
+                        </div>
+                        <div class="form-group form-check">
+
+
                         </div>
                         <button type="submit" class="btn btn-primary" onclick="useInput()">Submit </button>
                     </form>
+
                 </div>
+
+                <h2>.</h2>
+
+
+
+
+
+
                 <div class="main">
                     <div class="test-box">
-                        <p>Most people do know when their birthdays are, but some might not know what day of the week
-                            they were born. This website comes with a program that calculates the day of the week you
+                        <p>Most people do know when their birthdays are, but some might not know what day of the
+                            week
+                            they were born. This website comes with a program that calculates the day of the week
+                            you
                             were born
-                            and the respective name.This enables those who doesnt know the day of the week you were born
+                            and the respective name.This enables those who doesnt know the day of the week you were
+                            born
                             without
                             the need to have a record irrespective of their gender within the press of a button.With
                             this
@@ -82,6 +110,19 @@
                 </div>
             </h6>
         </div>
+    </div>
+    <div class="container">
+        <h1 class="j">GHANA</h1>
+        <h1 class="j">2020</h1>
+
+    </div>
+
+
+
+
+    </div>
+
+
     </div>
     <script src="js/scripts.js"></script>
 </body>
