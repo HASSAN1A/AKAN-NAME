@@ -58,12 +58,28 @@ h2 {
 
 .male {
     font-size: xx-large;
-    background: url("../images/memememe.jpg");
+    background: url("../images/memememe.jpg") no-repeat;
     text-align: center;
+    width: 100%;
+    background-position: center;
+    height: 900px;
+    text-align: center;
+    background-size: 100%;
+    color: rgb(0, 255, 21);
+
+
 }
 
 .female {
+
     font-size: xx-large;
     background-image: url("../images/fe.webp");
     text-align: center;
+    width: 100%;
+    background-position: center;
+    height: 900px;
+    text-align: center;
+    background-size: 100%;
+    color: aliceblue;
+
 }
