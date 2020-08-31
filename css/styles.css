@@ -42,11 +42,16 @@ h2 {
 .column {
     width: 350px;
     float: left;
+    column-rule: dotted;
+
 }
 
 .sidebar {
     width: 30%;
     float: right;
+    column-gap: 35px;
+    column-rule: dotted;
+    color: aliceblue;
 }
 
 .test-box {
@@ -82,4 +87,8 @@ h2 {
     background-size: 100%;
     color: aliceblue;
 
+}
+
+.ut {
+    color: blue;
 }
